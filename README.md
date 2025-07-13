@@ -51,6 +51,26 @@
 </p>
 
 ---
+## 📈 GitHub Stats
+... <!-- GitHub stats and streaks section -->
+
+---
+
+### 🧮 Commit Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashraf1600&custom_title=Commit+Summary&hide=prs,stars&show_icons=true&count_private=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashraf1600&theme=tokyonight&utcOffset=6" />
+  <br/>
+  <img src="https://github-contributions-api.deno.dev/ashraf1600.svg" />
+</p>
+
+---
+
+## 🚀 CP & Learning Profiles
+... <!-- LeetCode, Codeforces, HackerRank, GFG -->
+
 
 ## 🚀 CP & Learning Profiles
 
@@ -97,5 +117,6 @@
 
 ---
 
-> _“Striving to build impactful systems and contribute meaningfully to the tech community.”_
+> _“Striving to build impactful systems and contribute meaningfully to the tech community.”
+> 
 
