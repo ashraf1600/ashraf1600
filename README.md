@@ -51,10 +51,6 @@
 </p>
 
 ---
-## 📈 GitHub Stats
-... <!-- GitHub stats and streaks section -->
-
-
 ## 🚀 CP & Learning Profiles
 ... <!-- LeetCode, Codeforces, HackerRank, GFG -->
 
