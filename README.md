@@ -1,18 +1,6 @@
-<!-- Top Banner -->
-<img src="https://i.imgur.com/Zk5E4FJ.png" alt="Ashraful's GitHub Banner" style="width:100%;"/>
 
 <h1 align="center">Hi 👋, I'm Ashraful Islam</h1>
-<h3 align="center">💻 CSE Student @CUET | Full Stack Dev (MERN & Java) | Aspiring ML Engineer</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=2nd+Year+Undergrad+at+CUET;Learning+Machine+Learning+%7C+Backend+%7C+DSA;Building+Production-ready+Web+Apps+%F0%9F%9A%80" alt="Typing animation">
-</p>
-
-
-
-
-<h1 align="center">Hi 👋, I'm Ashraful Islam</h1>
-<h3 align="center">💻 CSE Student @CUET | Full Stack Dev (MERN & Java) | Aspiring ML Engineer</h3>
+<h3 align="center">💻 CSE Student @CUET | Aspiring ML/AI Engineer | Django </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=2nd+Year+Undergrad+at+CUET;Learning+Machine+Learning+%7C+Backend+%7C+DSA;Building+Production-ready+Web+Apps+%F0%9F%9A%80" alt="Typing animation">
@@ -22,18 +10,18 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 2nd Year CSE Student at CUET  
+- 🎓 3rd Year CSE Student at CUET  CSE
 - 🌱 Currently diving deep into **Machine Learning**, **DSA**, and **Backend Engineering**
-- 🔭 Working on full-stack projects with **React**, **Node.js**, and **Spring Boot**
+- 🔭 Working on full-stack projects with **React**, **Node.js**, and **Django**
 - 📊 Open to **collaborations**, **hackathons**, and **open-source contributions**
-- ⚡ Fun Fact: I love clean UIs, terminal tools, and solving real-world problems
+- ⚡ Fun Fact: I love to teach Mathmatics,Physics and watching football
 
 ---
 
 ## 💼 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,react,nodejs,mongodb,mysql,postgres,git,linux,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,mongodb,mysql,postgres,git,linux,vscode," />
 </p>
 
 ---
@@ -53,13 +41,12 @@
 
 ## 🎯 2025 Goals
 
-- ✅ Master DSA in Java and C++
+- ✅ Master DSA in C++
 - ✅ Build 3+ Full Stack Projects
-- 🚀 Contribute to Open Source & Hackathons
-- 🔁 Solve 300+ LeetCode/Codeforces problems
-- 📚 Learn Docker, Kubernetes & CI/CD
+- ✅ Solve 500+ LeetCode/Codeforces problems
+- 🔁 Learning Machine Learning ,Deep Learning , MLops and Gen AI
+- 🔁 Reading atleast 10/20 paper in the field of ML/AI
 - 🧠 Explore Deep Learning and Kaggle competitions
-
 ---
 
 ## 🏆 GitHub Achievements
