@@ -1,28 +1,40 @@
-
 <h1 align="center">Hi 👋, I'm Ashraful Islam</h1>
-<h3 align="center">💻 CSE Student @CUET | Aspiring ML/AI Engineer | Django </h3>
+<h3 align="center">💻 CSE Student @CUET | Aspiring ML/AI Engineer | Backend Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=2nd+Year+Undergrad+at+CUET;Learning+Machine+Learning+%7C+Backend+%7C+DSA;Building+Production-ready+Web+Apps+%F0%9F%9A%80" alt="Typing animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=3rd+Year+Undergrad+at+CUET;Learning+ML+%7C+Backend+%7C+DSA;Building+Production-ready+Web+Apps+%F0%9F%9A%80" alt="Typing animation">
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 3rd Year CSE Student at CUET  CSE
-- 🌱 Currently diving deep into **Machine Learning**, **DSA**, and **Backend Engineering**
-- 🔭 Working on full-stack projects with **React**, **Node.js**, and **Django**
-- 📊 Open to **collaborations**, **hackathons**, and **open-source contributions**
-- ⚡ Fun Fact: I love to teach Mathmatics,Physics and watching football
+- 🎓 3rd Year CSE Student at CUET
+- 🌱 Currently exploring **Machine Learning**, **Deep Learning**, **MLOps**, and **GenAI**
+- 🔭 Building full-stack projects using **React**, **Django**, **Node.js**, and **MongoDB**
+- 🧠 Solving DSA problems regularly on **LeetCode** and **Codeforces**
+- ⚡ Fun Fact: I enjoy teaching math/physics and love watching football ⚽
 
 ---
 
 ## 💼 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,mongodb,mysql,postgres,git,linux,vscode," />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,express,django,mongodb,mysql,postgres,git,linux,vscode" />
 </p>
+
+---
+
+## 🎯 2025 Goals
+
+| Goal                                                                 | Status       |
+|----------------------------------------------------------------------|--------------|
+| Master DSA in C++                                                    | ✅ Done       |
+| Build 3+ full stack production-grade projects                        | ✅ Done       |
+| Solve 500+ problems (LeetCode/Codeforces/GFG)                        | ✅ Done       |
+| Read 10–20 ML/AI research papers                                     | 🔁 Ongoing    |
+| Explore Deep Learning & Kaggle competitions                          | 🔁 Ongoing    |
+| Learn MLOps, GenAI tools, and system design fundamentals             | 🔁 In Progress|
 
 ---
 
@@ -39,16 +51,6 @@
 
 ---
 
-## 🎯 2025 Goals
-
-- ✅ Master DSA in C++
-- ✅ Build 3+ Full Stack Projects
-- ✅ Solve 500+ LeetCode/Codeforces problems
-- 🔁 Learning Machine Learning ,Deep Learning , MLops and Gen AI
-- 🔁 Reading atleast 10/20 paper in the field of ML/AI
-- 🧠 Explore Deep Learning and Kaggle competitions
----
-
 ## 🏆 GitHub Achievements
 
 <p align="center">
@@ -57,25 +59,9 @@
 
 ---
 
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ashraful1600" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:ashrafislam1600@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://www.facebook.com/ashrafislam1600" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## 🚀 CP & Learning Profiles
 
-<p align="left">
+<p align="center">
   <a href="https://leetcode.com/ashraf1600" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
@@ -92,26 +78,31 @@
 
 ---
 
-## 📂 Featured Projects (Pin These in GitHub)
+## 📂 Featured Projects
 
-- 🔬 **[LifeLink - Blood Bank System](https://github.com/ashraf1600/LifeLink)**  
-  Role-based search, expiry tracking, real-time matching  
-  Tech: `MySQL`, `Java`, `JSP`, `Servlet`, `Swing`, `HTML`, `CSS`
+| Project                                                                                 | Description |
+|-----------------------------------------------------------------------------------------|-------------|
+| 🔬 [**LifeLink - Blood Bank System**](https://github.com/ashraf1600/LifeLink)           | Role-based matching, real-time search, expiry tracking — `Java`, `MySQL`, `JSP` |
+| 💊 [**CUET Medical Center**](https://github.com/ashraf1600/CUET-Medical-Center)         | Web automation for doctor-student record handling — `Swing`, `Java`, `MySQL` |
+| 💡 [**Maze Escape (Rezia)**](https://github.com/ashraf1600/MazeEscape)                  | Pathfinding problem using `BFS` — `C++`, `Graph`, `Shortest Path` |
 
-- 💊 **[CUET Medical Center App](https://github.com/ashraf1600/CUET-Medical-Center)**  
-  Web automation project for student-doctor record handling  
-  Tech: `Java Swing`, `MySQL`, `Admin Panel`
+---
 
-- 💡 **[Maze Escape (Rezia)](https://github.com/ashraf1600/MazeEscape)**  
-  A shortest path finding algorithm problem  
-  Tech: `C++`, `BFS`, `Graph`, `Path Highlight`
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashraful1600" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:ashrafislam1600@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.facebook.com/ashrafislam1600" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 > 📌 *Always improving. Learning every day. Let’s build the future together!*
 
----
-
-## 💬 Want a custom README like this?
-
-DM me or ask ChatGPT 😄
