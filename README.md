@@ -1,3 +1,16 @@
+<!-- Top Banner -->
+<img src="https://i.imgur.com/Zk5E4FJ.png" alt="Ashraful's GitHub Banner" style="width:100%;"/>
+
+<h1 align="center">Hi 👋, I'm Ashraful Islam</h1>
+<h3 align="center">💻 CSE Student @CUET | Full Stack Dev (MERN & Java) | Aspiring ML Engineer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=2nd+Year+Undergrad+at+CUET;Learning+Machine+Learning+%7C+Backend+%7C+DSA;Building+Production-ready+Web+Apps+%F0%9F%9A%80" alt="Typing animation">
+</p>
+
+
+
+
 <h1 align="center">Hi 👋, I'm Ashraful Islam</h1>
 <h3 align="center">💻 CSE Student @CUET | Full Stack Dev (MERN & Java) | Aspiring ML Engineer</h3>
 
