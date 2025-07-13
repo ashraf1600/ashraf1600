@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋, I'm Ashraful Islam</h1>
-<h3 align="center">💻 CSE Student @CUET | Aspiring ML/AI Engineer | Backend Developer | Aspiring researcher </h3>
+<h3 align="center">💻 CSE Student @CUET | Aspiring ML/AI Engineer | Backend Developer | Research Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=3rd+Year+Undergrad+at+CUET;Learning+ML+%7C+Backend+%7C+DSA;Building+Production-ready+Web+Apps+%F0%9F%9A%80" alt="Typing animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=3rd+Year+CSE+Undergrad+at+CUET;Exploring+ML+%7C+Backend+%7C+DSA;Building+Real-World+Web+Apps+%F0%9F%9A%80" alt="Typing animation">
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 3rd Year CSE Student at CUET
-- 🌱 Exploring **Machine Learning**, **Deep Learning**, **MLOps**, and **GenAI**
-- 🔭 Building full-stack apps using **React**, **Django**, **Node.js**
-- 🧠 Solving DSA problems regularly on **LeetCode** and **Codeforces**
-- ⚡ Fun Fact: I enjoy teaching Math & Physics and love watching football ⚽
+- 🎓 3rd Year Undergraduate Student at **CUET**, Dept. of Computer Science and Engineering
+- 🔍 Actively exploring **Machine Learning**, **Deep Learning**, **MLOps**, and **GenAI**
+- 💻 Passionate about **building scalable web apps** using **React**, **Node.js**, and **Django**
+- 🧠 Regular problem solver on platforms like **LeetCode**, **Codeforces**, and **GFG**
+- 📚 Research-oriented mindset, currently reading and reviewing ML/AI papers
+- ⚽ A math and physics mentor in free time, and an enthusiastic football fan
 
 ---
 
@@ -27,21 +28,21 @@
 
 ## 🎯 2025 Goals
 
-| Goal                                                                 | Status       |
-|----------------------------------------------------------------------|--------------|
-| Master DSA in C++                                                    | ✅ Done       |
-| Build 3+ full stack production-grade projects                        | ✅ Done       |
-| Solve 500+ problems (LeetCode/Codeforces/GFG)                        | ✅ Done       |
-| Read 10–20 ML/AI research papers                                     | 🔁 Ongoing    |
-| Explore Deep Learning & Kaggle competitions                          | 🔁 Ongoing    |
-| Learn MLOps, GenAI tools, and system design fundamentals             | 🔁 In Progress|
+| Objective                                                              | Status        |
+|------------------------------------------------------------------------|---------------|
+| Master DSA in C++                                                     | ✅ Completed   |
+| Build and deploy 3+ full-stack production projects                    | ✅ Completed   |
+| Solve 500+ problems across LeetCode, Codeforces, and GFG              | ✅ Achieved    |
+| Read 10–20 research papers on ML/AI                                   | 🔁 In Progress |
+| Explore Deep Learning & participate in Kaggle competitions            | 🔁 In Progress |
+| Learn MLOps, GenAI frameworks, and system design fundamentals         | 🔁 In Progress |
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ashraf1600&show_icons=true&theme=tokyonight&count_private=true&hide_rank=false" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ashraf1600&show_icons=true&theme=tokyonight&count_private=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashraf1600&theme=tokyonight" />
 </p>
 
@@ -55,16 +56,16 @@
 
 <p align="center">
   <a href="https://leetcode.com/ashraf1600" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-300+_solved-orange?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-300%2B_Problems-orange?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://codeforces.com/profile/ashraf1600" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-200+_solved-blue?style=for-the-badge&logo=codeforces" />
+    <img src="https://img.shields.io/badge/Codeforces-200%2B_Problems-blue?style=for-the-badge&logo=codeforces" />
   </a>
   <a href="https://www.hackerrank.com/ashraf1600" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-100+_solved-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+    <img src="https://img.shields.io/badge/HackerRank-100%2B_Problems-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/ashraf1600/practice/" target="_blank">
-    <img src="https://img.shields.io/badge/GFG-100%2B_problems_solved-308D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+    <img src="https://img.shields.io/badge/GFG-100%2B_Problems-308D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
 
@@ -72,15 +73,15 @@
 
 ## 📂 Featured Projects
 
-| Project                                                                                 | Description |
-|-----------------------------------------------------------------------------------------|-------------|
-| 🔬 [**LifeLink - Blood Bank System**](https://github.com/ashraf1600/LifeLink)           | Role-based matching, real-time search, expiry tracking — `Java`, `MySQL`, `JSP` |
-| 💊 [**CUET Medical Center**](https://github.com/ashraf1600/CUET-Medical-Center)         | Web automation for doctor-student record handling — `Swing`, `Java`, `MySQL` |
-| 💡 [**Maze Escape (Rezia)**](https://github.com/ashraf1600/MazeEscape)                  | Pathfinding problem using `BFS` — `C++`, `Graph`, `Shortest Path` |
+| Project | Description |
+|--------|-------------|
+| 🔁 [**CUET Peer Delivery**](https://github.com/ashraf1600/CUET_Peer_Delivery) | Smart intra-campus ordering platform — `React`, `Node.js`, `MongoDB` |
+| 🕵️ [**E-commerce Fraud Detection**](https://github.com/ashraf1600/Fraud-Detection-ML) | Detect fraudulent transactions using `Supervised Learning`, `Flask` |
+| 🌲 [**Forest Fire Prediction**](https://github.com/ashraf1600/Forest-Fire-Prediction-Using-Supervised-Machine-Learning-Models-) | Predictive modeling of wildfire risk — `ML`, `Flask`, `Sklearn` |
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ashraful1600" target="_blank">
@@ -96,5 +97,5 @@
 
 ---
 
-> 📌 *Always improving. Learning every day. Let’s build the future together!*
+> _“Striving to build impactful systems and contribute meaningfully to the tech community.”_
 
