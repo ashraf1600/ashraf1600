@@ -33,9 +33,9 @@
 | Master DSA in C++                                                     | ✅ Completed   |
 | Build and deploy 3+ full-stack production projects                    | ✅ Completed   |
 | Solve 500+ problems across LeetCode, Codeforces, and GFG              | ✅ Achieved    |
-| Read 10–20 research papers on ML/AI                                   | 🔁 In Progress |
-| Explore Deep Learning & participate in Kaggle competitions            | 🔁 In Progress |
-| Learn MLOps, GenAI frameworks, and system design fundamentals         | 🔁 In Progress |
+| Read 10–20 research papers on ML/AI                                   | ✅ Achieved    |
+| Explore Deep Learning & participate in Kaggle competitions            | ✅ Achieved    |
+| Learn MLOps, GenAI frameworks, and system design fundamentals         | Failed to do this. target for 2026 inshallah |
 
 ---
 
