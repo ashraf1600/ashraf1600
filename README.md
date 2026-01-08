@@ -35,9 +35,12 @@
 | Solve 500+ problems across LeetCode, Codeforces, and GFG              | ✅ Achieved    |
 | Read 10–20 research papers on ML/AI                                   | ✅ Achieved    |
 | Explore Deep Learning & participate in Kaggle competitions            | ✅ Achieved    |
-| Learn MLOps, GenAI frameworks, and system design fundamentals         | Failed to do this.  targeting for 2026 inshallah |
+| Learn MLOps, GenAI frameworks, and system design fundamentals         | Failed to do this.  targeting for 2026 inshallah. |
 
 ---
+
+
+
 
 ## 📈 GitHub Stats
 
