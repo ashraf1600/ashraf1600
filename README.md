@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashraful Islam</h1>
-<h3 align="center">💻 CSE Student @CUET | Aspiring ML/AI Engineer | Backend Developer | Research Enthusiast</h3>
+<h3 align="center">💻 CSE Student @CUET | Aspiring AI Engineer | Backend Developer | Research Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=3rd+Year+CSE+Undergrad+at+CUET;Exploring+ML+%7C+Backend+%7C+DSA;Building+Real-World+Web+Apps+%F0%9F%9A%80" alt="Typing animation">
