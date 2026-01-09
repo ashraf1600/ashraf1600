@@ -54,8 +54,6 @@
 </p>
 
 ---
-## 🚀 CP & Learning Profiles
-... <!-- LeetCode, Codeforces, HackerRank, GFG -->
 
 
 ## 🚀 CP & Learning Profiles
