@@ -11,7 +11,7 @@
 
 - 🎓 3rd Year Undergraduate Student at **CUET**, Dept. of Computer Science and Engineering
 - 🔍 Actively exploring **Machine Learning**, **Deep Learning**, **MLOps**, and **GenAI**
-- 💻 Passionate about **building scalable web apps** using **React**, **Node.js**, and **Django**
+- 💻 Passionate about **building scalable web apps** using **React** and **Django**
 - 🧠 Regular problem solver on platforms like **LeetCode**, **Codeforces**, and **GFG**
 - 📚 Research-oriented mindset, currently reading and reviewing ML/AI papers
 - ⚽ A math and physics mentor in free time, and an enthusiastic football fan
