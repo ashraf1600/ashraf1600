@@ -14,7 +14,7 @@
 - 💻 Passionate about **building scalable web apps** using **React** and **Django**
 - 🧠 Regular problem solver on platforms like **LeetCode**, **Codeforces**, and **Hackerrank**
 - 📚 Research-oriented mindset, currently reading and reviewing ML/AI papers
-- ⚽ A math and physics mentor in free time, and an enthusiastic football fan
+- ⚽ A math and physics mentor in free time, and an enthusiastic football fan ...
 
 ---
 
