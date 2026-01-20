@@ -1,7 +1,7 @@
 <div align="center">
 <img src="me1.png" width="100%" height="250px" style="object-fit: cover; border-radius: 0 0 20px 20px;" />
 
-# 👋 Hey, this is your go-to tech friend, `Ashraful Islam`!
+# 👋 Hey this is `Ashraful Islam`!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student+%F0%9F%8E%93;Aspiring+AI+Engineer+%F0%9F%A4%96;Backend+Developer+%F0%9F%92%BB;Research+Enthusiast+%F0%9F%94%AC;Competitive+Programmer+%F0%9F%8F%86" alt="Typing SVG" />
 
