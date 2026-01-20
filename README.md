@@ -36,7 +36,8 @@ I'm a 3rd Year CSE student at CUET, passionate about Machine Learning, Deep Lear
 
 | Institution | Degree                                  | Duration      |
 | ----------- | --------------------------------------- | ------------- |
-| **CUET**    | B.Sc. in Computer Science & Engineering | Expected 2026 |
+| **CUET**    | B.Sc. in Computer Science & Engineering | Expected 2027 |
+| **Dhaka City College** | HSC in Science               | 2019---2021   | 
 
 ---
 
@@ -48,14 +49,14 @@ I'm a 3rd Year CSE student at CUET, passionate about Machine Learning, Deep Lear
 
 | Platform       | Profile                                                        | Problems Solved |
 | -------------- | -------------------------------------------------------------- | --------------- |
-| **LeetCode**   | [ashraf1600](https://leetcode.com/ashraf1600)                  | 300+            |
-| **Codeforces** | [ashraf1600](https://codeforces.com/profile/ashraf1600)        | 200+            |
-| **HackerRank** | [ashraf1600](https://www.hackerrank.com/ashraf1600)            | 100+            |
-| **GeeksforGeeks** | [ashraf1600](https://auth.geeksforgeeks.org/user/ashraf1600/practice/) | 100+            |
+| **LeetCode**   | [ashraf1600](https://leetcode.com/ashraf1600)                  | 200+            |
+| **Codeforces** | [ashraf1600](https://codeforces.com/profile/ashraf1600)        | 300+            |
+| **HackerRank** | [ashraf1600](https://www.hackerrank.com/ashraf1600)            | 50+            |
+| **GeeksforGeeks** | [ashraf1600](https://auth.geeksforgeeks.org/user/ashraf1600/practice/) | 40+            |
 
 ### 🎖️ Achievements
 
-✅ **700+** total problems solved | ✅ Active participant in **Coding Competitions** | ✅ **DSA Mastery** in C++
+✅ **500+** total problems solved | ✅ Active participant in **Coding Competitions** | ✅ **DSA Mastery** in C++
 
 </div>
 
