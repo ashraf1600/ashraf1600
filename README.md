@@ -45,7 +45,7 @@ I'm a 3rd Year CSE student at CUET, passionate about Machine Learning, Deep Lear
 
 <div align="center">
 
-### 🎯 700+ Problems Solved Across Multiple Platforms
+### 🎯 500+ Problems Solved Across Multiple Platforms
 
 | Platform       | Profile                                                        | Problems Solved |
 | -------------- | -------------------------------------------------------------- | --------------- |
