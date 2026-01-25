@@ -1,5 +1,5 @@
-<div align="center">
-<img src="me1.png" width="100%" height="250px" style="object-fit: cover; border-radius: 0 0 20px 20px;" />
+<!-- <div align="center">
+<img src="me1.png" width="100%" height="250px" style="object-fit: cover; border-radius: 0 0 20px 20px;" /> -->
 
 # 👋 Hey this is `Ashraful Islam`!
 
