@@ -7,7 +7,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Profile!&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
 
-### Computer Science student at CUET | 500+ Problems Solved | ML/AI & Backend Specialist
+### Computer Science student at CUET | 500+ Problems Solved | ML/AI & Backend
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
