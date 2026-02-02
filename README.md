@@ -1,261 +1,435 @@
-===========================
-======= README.md =========
-===========================
+<!-- <div align="center">
+<img src="me1.png" width="100%" height="250px" style="object-fit: cover; border-radius: 0 0 20px 20px;" /> -->
 
-# 👋 Hi, I'm Ashraful Islam  
+# 👋 Hey this is `Ashraful Islam`!
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=Computer+Science+Student+at+CUET;Aspiring+AI+Engineer;Machine+Learning+Research+Enthusiast;Backend+Developer;Competitive+Programmer" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student+%F0%9F%8E%93;Aspiring+AI+Engineer+%F0%9F%A4%96;Backend+Developer+%F0%9F%92%BB;Research+Enthusiast+%F0%9F%94%AC;Competitive+Programmer+%F0%9F%8F%86" alt="Typing SVG" />
 
-<p align="center">
-🎓 CSE Undergraduate at CUET | 🤖 AI & ML Enthusiast | 💻 Backend Developer | 🏆 Competitive Programmer  
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Profile!&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ashraf1600&label=Profile%20Views&color=00E5FF&style=flat-square"/>
-</p>
+### Computer Science student at CUET | 500+ Problems Solved | ML/AI & Backend
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+</div>
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 ## 🚀 About Me
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding" width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-I am a **3rd-year Computer Science & Engineering student at CUET** with strong interests in **Artificial Intelligence, Machine Learning, and scalable backend systems**.
+I'm a 3rd Year CSE student at CUET, passionate about Machine Learning, Deep Learning, and building scalable backend systems. I love solving algorithmic problems, exploring AI research papers, and creating real-world web applications that make an impact.
 
-My goal is to work on **AI research projects, real-world ML applications, and production-level backend systems**.
+**🤝 Open to collaborate on:** ML/AI projects, full-stack web applications, research initiatives, or anything involving problem-solving and innovative tech solutions.
 
-### 🔹 Interests
-- Machine Learning & Deep Learning  
-- NLP & Computer Vision (Learning)  
-- AI System Design  
-- Backend APIs for ML Deployment  
-- Competitive Programming  
+**💬 Ask me about:** Machine Learning workflows, backend development with Django & Node.js, competitive programming strategies, or research paper insights. Also happy to mentor in math and physics!
+
+**⚡ Fun fact:** I'm a football enthusiast who codes! When I'm not debugging or training models, you'll find me either solving DSA problems or discussing the latest football matches. Also, I've read 10+ ML/AI research papers this year!
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ---
 
 ## 🎓 Education
 
-| Institution | Degree | Duration |
-------------|--------|----------
-**CUET** | B.Sc. in Computer Science & Engineering | 2023 – 2027 (Expected)
-**Dhaka City College** | HSC (Science) | 2019 – 2021
+| Institution | Degree                                  | Duration      |
+| ----------- | --------------------------------------- | ------------- |
+| **CUET**    | B.Sc. in Computer Science & Engineering | Expected 2027 |
+| **Dhaka City College** | HSC in Science               | 2019---2021   | 
 
 ---
 
 ## 🏅 Competitive Programming
 
-### ✅ 500+ Problems Solved
+<div align="center">
 
-| Platform | Handle | Solved |
----------|--------|--------
-LeetCode | ashraf1600 | 200+
-Codeforces | ashraf1600 | 300+
-GeeksforGeeks | ashraf1600 | 40+
-HackerRank | ashraf1600 | 20+
+### 🎯 500+ Problems Solved Across Multiple Platforms
 
-✔ Strong DSA Foundation  
-✔ Regular Contest Participant  
+| Platform       | Profile                                                        | Problems Solved |
+| -------------- | -------------------------------------------------------------- | --------------- |
+| **LeetCode**   | [ashraf1600](https://leetcode.com/u/noobashraf21/)             | 200+            |
+| **Codeforces** | [ashraf1600](https://codeforces.com/profile/ashraf1600)        | 300+            |
+| **HackerRank** | [ashraf1600](https://www.hackerrank.com/ashraf1600)            | 20+            |
+| **GeeksforGeeks** | [ashraf1600](https://auth.geeksforgeeks.org/user/ashraf1600/practice/) | 40+            |
+
+### 🎖️ Achievements
+
+✅ **500+** total problems solved | ✅ Active participant in **Coding Competitions** | ✅ **DSA Mastery** in C++
+
+</div>
 
 ---
 
 ## 💻 Tech Stack
 
-### Languages
-![C++](https://img.shields.io/badge/C++-00E5FF?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-00E5FF?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-00E5FF?style=for-the-badge&logo=javascript)
+<div align="center">
 
-### Frameworks & ML Tools
+### 🚀 Programming Languages
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-00E5FF?style=for-the-badge&logo=tensorflow)
-![ScikitLearn](https://img.shields.io/badge/ScikitLearn-00E5FF?style=for-the-badge&logo=scikit-learn)
-![Django](https://img.shields.io/badge/Django-00E5FF?style=for-the-badge&logo=django)
-![Flask](https://img.shields.io/badge/Flask-00E5FF?style=for-the-badge&logo=flask)
-![Node.js](https://img.shields.io/badge/Node.js-00E5FF?style=for-the-badge&logo=node.js)
+<br>
 
----
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-## 🏆 GitHub Trophies
+<br>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ashraf1600&theme=algolia&row=1&column=6"/>
-</p>
+### 🛠️ Frameworks & Libraries
+
+<br>
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+<br>
+
+### 🗄️ Databases
+
+<br>
+
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%33336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<br>
+
+### 📦 DevOps & Tools
+
+<br>
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ---
 
 ## 📌 Featured Projects
 
-| Project | Description | Tech |
---------|------------|------
-CUET Peer Delivery | Smart campus delivery platform | MERN Stack  
-Fraud Detection | ML-based fraud detection | Python, Sklearn  
-Forest Fire Prediction | Wildfire prediction system | ML  
+<div align="center">
+
+### 🏆 My Best Work
+
+| Project                              | Description                                             | Tech Stack                           | Links                                                                      |
+| ------------------------------------ | ------------------------------------------------------- | ------------------------------------ | -------------------------------------------------------------------------- |
+| **🔁 CUET Peer Delivery**            | Smart intra-campus ordering & delivery platform         | React, Node.js, MongoDB              | [Repo](https://github.com/ashraf1600/CUET_Peer_Delivery)                  |
+| **🕵️ E-commerce Fraud Detection**    | ML-based system to detect fraudulent transactions       | Python, Flask, Scikit-learn          | [Repo](https://github.com/ashraf1600/Fraud-Detection-ML)                  |
+| **🌲 Forest Fire Prediction**        | Predictive modeling for wildfire risk assessment        | Python, ML, Flask, Sklearn           | [Repo](https://github.com/ashraf1600/Forest-Fire-Prediction-Using-Supervised-Machine-Learning-Models-) |
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 2025 Goals
 
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ashraf1600&show_icons=true&theme=tokyonight"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashraf1600&theme=tokyonight"/>
-</p>
+| Objective                                                    | Status      |
+| ------------------------------------------------------------ | ----------- |
+| Master DSA in C++                                            | ✅ Completed |
+| Build and deploy 3+ full-stack production projects          | ✅ Completed |
+| Solve 500+ problems across LeetCode, Codeforces, and GFG    | ✅ Achieved  |
+| Read 10–20 research papers on ML/AI                          | ✅ Achieved  |
+| Explore Deep Learning & participate in Kaggle competitions   | ✅ Achieved  |
+| Learn MLOps, GenAI frameworks, and system design fundamentals| 🎯 Targeting 2026 |
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
+### 💼 Social & Professional
+
+<a href="https://www.facebook.com/ashrafislam1600">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
+</a>
 <a href="https://www.linkedin.com/in/ashraful1600">
-<img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:ashrafislam1600@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
-<a href="mailto:ashrafislam1600@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-00E5FF?style=for-the-badge&logo=gmail"/>
-</a>
+<br><br>
+
+### 🏆 Competitive Programming Profiles
 
 <a href="https://leetcode.com/ashraf1600">
-<img src="https://img.shields.io/badge/LeetCode-00E5FF?style=for-the-badge&logo=leetcode"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
+<a href="https://codeforces.com/profile/ashraf1600">
+  <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/>
+</a>
+<a href="https://www.hackerrank.com/ashraf1600">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
+</a>
+<a href="https://auth.geeksforgeeks.org/user/ashraf1600/practice/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
 </a>
 
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+</div>
 
 ---
 
-✨ "Building intelligent systems through code and research."
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-====================================================
-====== LINKEDIN HEADLINE + ABOUT ===================
-====================================================
+## 📊 GitHub Stats
 
-HEADLINE:
-CSE Undergraduate at CUET | Aspiring AI Engineer | Machine Learning Enthusiast | Backend Developer | Competitive Programmer
+<div align="center">
 
-ABOUT SECTION:
+### 📈 Contribution Activity
 
-I am a Computer Science and Engineering undergraduate at CUET with strong interests in Artificial Intelligence, Machine Learning, and backend development.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashraf1600&custom_title=Ashraful's%20GitHub%20Activity&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
 
-I actively work on ML projects, competitive programming, and AI research exploration to build real-world problem-solving skills.
+<br><br>
 
-Core Interests:
-• Machine Learning & Deep Learning  
-• AI Research  
-• Backend APIs for ML Deployment  
-• Competitive Programming  
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ashraf1600&show_icons=true&theme=tokyonight&count_private=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashraf1600&theme=tokyonight" />
 
-Currently seeking AI internships, research collaborations, and project opportunities.
-
-====================================================
-======== PORTFOLIO WEBSITE =========================
-====================================================
-
-Save this as index.html
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Ashraful Islam | AI Portfolio</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-body {
-  margin: 0;
-  font-family: 'Segoe UI', sans-serif;
-  background: #0a0f1c;
-  color: white;
-}
-
-.hero {
-  text-align: center;
-  padding: 100px 20px;
-}
-
-.hero h1 {
-  font-size: 48px;
-  color: #00e5ff;
-}
-
-.hero p {
-  font-size: 20px;
-  color: #cccccc;
-}
-
-.section {
-  width: 85%;
-  margin: auto;
-  padding: 50px 0;
-}
-
-.section h2 {
-  color: #00e5ff;
-}
-
-.skills span {
-  display: inline-block;
-  background: #00e5ff;
-  color: black;
-  padding: 8px 14px;
-  border-radius: 20px;
-  margin: 5px;
-}
-
-.footer {
-  text-align: center;
-  padding: 30px;
-  color: #aaa;
-}
-</style>
-</head>
-
-<body>
-
-<div class="hero">
-<h1>Ashraful Islam</h1>
-<p>AI Enthusiast | Machine Learning Developer | CSE Student at CUET</p>
 </div>
 
-<div class="section">
-<h2>About Me</h2>
-<p>
-I am a Computer Science student passionate about AI, ML and backend development.
-I build ML-powered applications and solve algorithmic problems.
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontAlignY=65&animation=twinkling&fontColor=fff" width="100%"/>
+
+### 💻 Let's Connect and Build Something Amazing Together! 🚀
+
+**"Striving to build impactful systems and contribute meaningfully to the tech community."** ✨
+
+</div><!-- <div align="center">
+<img src="me1.png" width="100%" height="250px" style="object-fit: cover; border-radius: 0 0 20px 20px;" /> -->
+
+# 👋 Hey this is `Ashraful Islam`!
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student+%F0%9F%8E%93;Aspiring+AI+Engineer+%F0%9F%A4%96;Backend+Developer+%F0%9F%92%BB;Research+Enthusiast+%F0%9F%94%AC;Competitive+Programmer+%F0%9F%8F%86" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Profile!&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
+
+### Computer Science student at CUET | 500+ Problems Solved | ML/AI & Backend
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
 </div>
 
-<div class="section">
-<h2>Skills</h2>
-<div class="skills">
-<span>Python</span>
-<span>C++</span>
-<span>Machine Learning</span>
-<span>Deep Learning</span>
-<span>Django</span>
-<span>Flask</span>
-<span>Node.js</span>
-<span>MongoDB</span>
-</div>
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+I'm a 3rd Year CSE student at CUET, passionate about Machine Learning, Deep Learning, and building scalable backend systems. I love solving algorithmic problems, exploring AI research papers, and creating real-world web applications that make an impact.
+
+**🤝 Open to collaborate on:** ML/AI projects, full-stack web applications, research initiatives, or anything involving problem-solving and innovative tech solutions.
+
+**💬 Ask me about:** Machine Learning workflows, backend development with Django & Node.js, competitive programming strategies, or research paper insights. Also happy to mentor in math and physics!
+
+**⚡ Fun fact:** I'm a football enthusiast who codes! When I'm not debugging or training models, you'll find me either solving DSA problems or discussing the latest football matches. Also, I've read 10+ ML/AI research papers this year!
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+---
+
+## 🎓 Education
+
+| Institution | Degree                                  | Duration      |
+| ----------- | --------------------------------------- | ------------- |
+| **CUET**    | B.Sc. in Computer Science & Engineering | Expected 2027 |
+| **Dhaka City College** | HSC in Science               | 2019---2021   | 
+
+---
+
+## 🏅 Competitive Programming
+
+<div align="center">
+
+### 🎯 500+ Problems Solved Across Multiple Platforms
+
+| Platform       | Profile                                                        | Problems Solved |
+| -------------- | -------------------------------------------------------------- | --------------- |
+| **LeetCode**   | [ashraf1600](https://leetcode.com/u/noobashraf21/)             | 200+            |
+| **Codeforces** | [ashraf1600](https://codeforces.com/profile/ashraf1600)        | 300+            |
+| **HackerRank** | [ashraf1600](https://www.hackerrank.com/ashraf1600)            | 20+            |
+| **GeeksforGeeks** | [ashraf1600](https://auth.geeksforgeeks.org/user/ashraf1600/practice/) | 40+            |
+
+### 🎖️ Achievements
+
+✅ **500+** total problems solved | ✅ Active participant in **Coding Competitions** | ✅ **DSA Mastery** in C++
+
 </div>
 
-<div class="section">
-<h2>Projects</h2>
-<ul>
-<li>CUET Peer Delivery System</li>
-<li>Fraud Detection ML System</li>
-<li>Forest Fire Prediction</li>
-</ul>
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### 🚀 Programming Languages
+
+<br>
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+<br>
+
+### 🛠️ Frameworks & Libraries
+
+<br>
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+<br>
+
+### 🗄️ Databases
+
+<br>
+
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%33336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<br>
+
+### 📦 DevOps & Tools
+
+<br>
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 </div>
 
-<div class="section">
-<h2>Contact</h2>
-<p>Email: ashrafislam1600@gmail.com</p>
-<p>LinkedIn: linkedin.com/in/ashraful1600</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+### 🏆 My Best Work
+
+| Project                              | Description                                             | Tech Stack                           | Links                                                                      |
+| ------------------------------------ | ------------------------------------------------------- | ------------------------------------ | -------------------------------------------------------------------------- |
+| **🔁 CUET Peer Delivery**            | Smart intra-campus ordering & delivery platform         | React, Node.js, MongoDB              | [Repo](https://github.com/ashraf1600/CUET_Peer_Delivery)                  |
+| **🕵️ E-commerce Fraud Detection**    | ML-based system to detect fraudulent transactions       | Python, Flask, Scikit-learn          | [Repo](https://github.com/ashraf1600/Fraud-Detection-ML)                  |
+| **🌲 Forest Fire Prediction**        | Predictive modeling for wildfire risk assessment        | Python, ML, Flask, Sklearn           | [Repo](https://github.com/ashraf1600/Forest-Fire-Prediction-Using-Supervised-Machine-Learning-Models-) |
+
 </div>
 
-<div class="footer">
-© 2026 Ashraful Islam | AI Portfolio
+---
+
+## 🎯 2025 Goals
+
+| Objective                                                    | Status      |
+| ------------------------------------------------------------ | ----------- |
+| Master DSA in C++                                            | ✅ Completed |
+| Build and deploy 3+ full-stack production projects          | ✅ Completed |
+| Solve 500+ problems across LeetCode, Codeforces, and GFG    | ✅ Achieved  |
+| Read 10–20 research papers on ML/AI                          | ✅ Achieved  |
+| Explore Deep Learning & participate in Kaggle competitions   | ✅ Achieved  |
+| Learn MLOps, GenAI frameworks, and system design fundamentals| 🎯 Targeting 2026 |
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+### 💼 Social & Professional
+
+<a href="https://www.facebook.com/ashrafislam1600">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
+</a>
+<a href="https://www.linkedin.com/in/ashraful1600">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:ashrafislam1600@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+<br><br>
+
+### 🏆 Competitive Programming Profiles
+
+<a href="https://leetcode.com/ashraf1600">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
+<a href="https://codeforces.com/profile/ashraf1600">
+  <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/>
+</a>
+<a href="https://www.hackerrank.com/ashraf1600">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
+</a>
+<a href="https://auth.geeksforgeeks.org/user/ashraf1600/practice/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+</a>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 </div>
 
-</body>
-</html>
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+### 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashraf1600&custom_title=Ashraful's%20GitHub%20Activity&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+
+<br><br>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ashraf1600&show_icons=true&theme=tokyonight&count_private=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashraf1600&theme=tokyonight" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontAlignY=65&animation=twinkling&fontColor=fff" width="100%"/>
+
+### 💻 Let's Connect and Build Something Amazing Together! 🚀
+
+**"Striving to build impactful systems and contribute meaningfully to the tech community."** ✨
+ make it more professional ND attarctiv
+</div>
