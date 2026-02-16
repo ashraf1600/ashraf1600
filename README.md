@@ -220,31 +220,5 @@ I'm a 3rd Year CSE student at CUET, passionate about Machine Learning, Deep Lear
 
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-### 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashraf1600&custom_title=Ashraful's%20GitHub%20Activity&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
-
-<br><br>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ashraf1600&show_icons=true&theme=tokyonight&count_private=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashraf1600&theme=tokyonight" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontAlignY=65&animation=twinkling&fontColor=fff" width="100%"/>
-
-### 💻 Let's Connect and Build Something Amazing Together! 🚀
-
-**"Striving to build impactful systems and contribute meaningfully to the tech community."** ✨
- make it more professional ND attarctiv
 </div>
